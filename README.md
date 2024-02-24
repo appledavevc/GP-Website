@@ -21,7 +21,7 @@ We value your feedback and would love to hear your thoughts on the Ghent Photogr
 
 ## License
 
-The Ghent Photography app is open-source and released under the [GPLv3 License](LICENSE). You are free to use, modify, and contribute to the app following the terms of the license.
+The Ghent Photography website is open-source and released under the [GPLv3 License](LICENSE). You are free to use, modify, and contribute to the app following the terms of the license.
 
 ## Acknowledgements
 
@@ -29,7 +29,7 @@ We extend our gratitude to all the contributors who have helped make this projec
 
 ---
 
-Thank you for your interest in the Ghent Photography app. We hope you enjoy your visual adventure through Ghent and find inspiration in the artistry of photography.
+Thank you for your interest in the Ghent Photography website. We hope you enjoy your visual adventure through Ghent and find inspiration in the artistry of photography.
 
 Happy exploring!
 
