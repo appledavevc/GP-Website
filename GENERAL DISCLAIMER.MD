@@ -1,4 +1,4 @@
-              GHENT PHOTOGRAPHY GENERAL PUBLIC LICENSE
+               GHENT PHOTOGRAPHY GENERAL DISCLAIMER
                        Version 2, 12 May 2023
 
 # Interpretation and Definitions
